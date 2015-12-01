@@ -29,3 +29,5 @@ and making time for reflections. Humans tend to be creatures of habit. If you
 want to achieve something that needs constant work, build a habit out of it.
 You want to read more books? Spend 30 minutes every morning with just reading.
 You want to lose weight? Have a strict habit of going to the gym every Monday,
+
+Changed to nowrap
