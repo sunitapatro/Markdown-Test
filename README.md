@@ -10,8 +10,7 @@ published: true
 title: Timeouts And Reflections
 ---
 
-I love [coffee][]. I really do. And yet I haven't had any for 4 days now. The first day was rough, I got the headaches that everybody will tell you about when it comes to the topic of caffeine withdrawal symptoms. The second day was better and by the third, the headaches were gone. And I'm just halfway done.
-
+I love [coffee][]. I really do. And yet I haven't had any for 4 days now. The first day was rough, I got the headaches that everybody will tell you about when it comes to the topic of caffeine withdrawal symptoms. The second day was better and by the third, the headaches were gone. And I'm just halfway done. [done]
 
 
 I'm not gonna drink coffee for a couple more days. It's part of a yearly
