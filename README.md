@@ -31,3 +31,4 @@ You want to read more books? Spend 30 minutes every morning with just reading.
 You want to lose weight? Have a strict habit of going to the gym every Monday,
 
 Changed to nowrap
+[coffee]: https://unwiredcouch.com/setup/coffee/
