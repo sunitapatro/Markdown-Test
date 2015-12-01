@@ -3,7 +3,8 @@ Hello this is readme for Markdown-Test repository. I have now a new repository M
 [[https://raw.githubusercontent.com/mrtazz/unwiredcouch.com/master/_posts/2015-11-20-timeouts-reflections.md]]
 
 
-////////https://github.com/mrtazz/unwiredcouch.com/edit/master/_posts/2015-11-20-timeouts-reflections.md
+https://github.com/mrtazz/unwiredcouch.com/edit/master/_posts/2015-11-20-timeouts-reflections.md
+
 ---
 layout: post
 published: true
