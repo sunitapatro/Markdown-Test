@@ -10,3 +10,7 @@ https://imgv3.fotor.com/images/slider-image/Blurry-low-quality-female-portrait-p
 
 ## image with rel url
 ![Image](./sample.png)
+
+
+## image with abs url for local image
+![Image](https://github.com/sunitapatro/Markdown-Test/raw/master/sample.png)
